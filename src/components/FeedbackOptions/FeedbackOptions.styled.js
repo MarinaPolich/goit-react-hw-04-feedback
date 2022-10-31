@@ -5,6 +5,7 @@ export const FeedbackBtn = styled.button`
   padding: 5px 10px;
   cursor: pointer;
   border-radius: 4px;
+  text-transform: capitalize;
 
   &:hover {
     background-color: #0000ff;
